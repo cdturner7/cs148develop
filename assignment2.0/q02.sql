@@ -1,0 +1,1 @@
+select fldDepartment FROM tblCourses WHERE fldCourseName like 'introduction%'
