@@ -49,6 +49,7 @@ img{
     color: white;
 }
 
+<<<<<<< HEAD
 .odd :hover{
     background-color: lightblue;
     color: black;
@@ -58,6 +59,8 @@ img{
     color: black;
 }
 
+=======
+>>>>>>> b6fa1bc0a25863e95bb442e236ba1018da7f9e2f
 .small {
     width: 150px;
 }
@@ -99,6 +102,26 @@ td, th {
     border: thin #000080 solid;             
     border-collapse: collapse;
 }
+<<<<<<< HEAD
+=======
+
+/*------------------------    each table only  ------------------------------ */
+.one{
+    width: 6em;
+    overflow: auto;
+}
+table.five tbody{
+    height: 4em;
+    overflow: auto;
+}  
+table.four tbody{
+    overflow: auto;
+    height: 1em;
+}
+table.seven{
+    height: 2em;
+}
+>>>>>>> b6fa1bc0a25863e95bb442e236ba1018da7f9e2f
 /*------------------------  footer page  only  ------------------------------ */
 
 footer {

@@ -9,6 +9,7 @@
     $info2 = $thisDatabaseReader->select($query, "", 0, 0, 0, 0, false, false);
     $span = count($info2);
     
+<<<<<<< HEAD
     print '<p> Query: ' . $query . '<br><br>';
     print '<p> Record Total: ' . $span;
     
@@ -18,6 +19,14 @@
         . "</tr></thead>";
 
     $columns = 8;    
+=======
+    print '<p> Query: ' . $query;
+    print '<p> Record Total: ' . $span;
+    
+    print "<table class = 'one'>";
+    
+    $columns = 2;    
+>>>>>>> b6fa1bc0a25863e95bb442e236ba1018da7f9e2f
     
     $highlight = 0; // used to highlight alternate rows
     foreach ($info2 as $rec) {
