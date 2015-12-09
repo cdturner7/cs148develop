@@ -35,7 +35,7 @@
         <h3>Final Project</h3>
         <ul>
             <!--links to project-->
-            <li><a href="assingment10.0/index.php">Final Project!</a></li>
+            <li><a href="assignment10/index.php">Final Project!</a></li>
         </ul>
         
         
