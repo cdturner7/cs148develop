@@ -1,3 +1,4 @@
-SELECT *
+SELECT fldLastName, fldFirstName
 FROM tblStudents 
-ORDER BY fldLastName, fldFirstName LIMIT 10 offset 1000
+ORDER BY fldLastName, fldFirstName 
+LIMIT 

@@ -31,6 +31,24 @@
               href = "style.css"
               type = "text/css">
         
+        <!--add the Final assignment-->
+        <h3>Final Project</h3>
+        <ul>
+            <!--links to project-->
+            <li><a href="assingment10.0/index.php">Final Project!</a></li>
+        </ul>
+        
+        
+        
+        <!--add the Group assignment with all links-->
+        <h3>Group Project</h3>
+        <ul>
+            <!--links to the assignment 2-->
+            <li><a href="advising/index.php">Advising</a></li>
+        </ul>
+        
+        
+        
         <!--add the assignment 2 with all links-->
         <h3>Assignment 3.0</h3>
         <ul>
