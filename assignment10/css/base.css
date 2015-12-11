@@ -99,3 +99,6 @@ footer {
 center{
     margin-top: 30%
 }
+ul{
+    list-style-type:none;
+}

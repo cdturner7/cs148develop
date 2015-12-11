@@ -3,9 +3,14 @@
 
 <!--link style sheet -->
         <link rel = "stylesheet"
-              href = "style.css"
+              href = "css/base.css"
               type = "text/css">
         
 <center>
-    <a href="http://cdturner.w3.uvm.edu/SkiSwap/misc/index.php">Final Project Link</a>
+    <ul>
+        <li><a href="http://cdturner.w3.uvm.edu/SkiSwap/misc/index.php">Final Project Link</a></li>
+        <li><a href="SkiSwap_Project_Spec.pdf">Spec Doc</a></li>
+        <li><a href="skis.php">Schema</a></li>
+        <li><a href="ER.pdf">ER Diagram</a></li>
+    </ul>
 </center>
